@@ -1,0 +1,148 @@
+.one{
+    background-color: maroon;
+    padding: 1px; 
+}
+.one li{
+    list-style: none;
+    display: inline-block;
+    padding: 3px;
+    width: 60px;
+}
+.one a{
+    text-decoration: none;
+border-radius: 7px;
+background-color: rgb(87, 3, 3);
+color: aliceblue;
+padding: 8px;
+}
+img{
+    width: 40px;
+    height:30px; ;
+     float: left;
+}
+.two h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.two li{
+    list-style: none;
+    display: inline-block;text-align: center;
+    
+}
+.two a{
+    
+    text-decoration: none;
+border-radius: 10px;
+background-color: rgb(82, 1, 1);
+color: aliceblue;
+padding: 10px;
+text-transform: capitalize;
+
+}
+.three{
+    background-image: url( nn.png );
+    width: 100%;
+    height: 75vh;
+    background-size: 100% 100% ;
+    position: relative;
+    
+    
+}
+  h1{
+    text-align: center;
+  }
+  .four{
+    margin-left: 500px;
+    border-collapse: collapse;
+    width: 70%;
+    height: 50%;
+    text-transform: capitalize;
+    color: aliceblue;
+  }
+  a{
+    text-decoration: none;
+    background-color: rgb(75, 4, 4);
+    color: aliceblue;
+    width: 10px;
+    
+  }
+  .aa{
+    background-color: gray;
+  }
+  .pp{
+    background-color: darkslategray;
+  }
+  .cc{
+    color: black;
+  }
+ .a,.p,.c{
+    width: 370px;
+    height: 423px;
+    background-color: #888;
+    text-align: center;
+    display: inline-block;
+    border: #444 2px solid;
+    border-radius: 10px;
+    margin: 20px;
+ }
+ .totl img{
+    width: 370px;
+    height: 170px;
+    border-radius: 5px;
+ }
+ .totl p{
+    color: #fff;
+    margin: 5px 5px 70px;
+
+ }
+ .totl a{
+    color: rgb(228, 212, 212);
+    background-color: darkred;
+    padding: 18px 130px;
+    
+ }
+ .totl{
+    background-image: url(back2.jpg );
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 20px 1px;
+ }
+ .totl2{
+    text-align: center;
+    margin-top: 60px;
+ }
+ .totl2 img{
+    width: 250px;
+    height: 250px;
+ }
+ .quos , .td{
+    width: 500px;
+    height: 400px;
+    display:inline-block;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 30px;
+ }
+ .quos{
+    background-color: cadetblue;
+ }
+ .td{
+    background-color: chocolate;
+ }
+ .totl2 a{
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 20px;
+    font-size: 20px;
+ }
+ .totl2 p{
+    color: aliceblue;
+    margin: 50px;
+ }
+ .nnn{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    padding: 10px;
+ }
